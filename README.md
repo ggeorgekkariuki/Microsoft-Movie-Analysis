@@ -27,15 +27,15 @@ This project uses historical data from the IMDB and other files to enable summar
 
 The best length of a movie is between 90 and 110 minutes
 
-![movie_runtimes.png](./images/"Hist Movie Runtimes.png")
+![movie_runtimes.png](images/Hist_Movie_Runtimes.png)
 
 The best time to release movies were observed to be between October and November
 
-![movie_release.png](./images/"Hist Movie Release Month.png")
+![movie_release.png](./images/Hist_Movie_Release_Month.png)
 
 There is a strong correlation between votes and revenues.
 
-![vote_v_release.png](./images/"Vote v Revenue.png")
+![vote_v_release.png](./images/Vote_v_Revenue.png)
 
 ## Conclusions
 
@@ -48,7 +48,7 @@ This analysis leads to three recommendations to carve a niche for Microsoft Stud
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./student.pdf).
+See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./presentation.pdf).
 
 ## Repository Structure
 
@@ -56,7 +56,7 @@ See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this 
 ├── zippedData
 ├── images
 ├── README.md
-├── student.pdf
+├── presentation.pdf
 └── student.ipynb
 ```
 
